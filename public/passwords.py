@@ -1,0 +1,4 @@
+passwords = [
+    'aaa',
+    'bbb',
+]
